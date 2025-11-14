@@ -12,3 +12,8 @@ wheels/
 .env
 
 data/**/*
+fine_tuned_bert/**/*
+results/**/*
+logs/**/*
+
+.DS_Store
